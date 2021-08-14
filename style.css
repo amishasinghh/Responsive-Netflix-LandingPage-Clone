@@ -321,6 +321,10 @@ img{
 
 @media(max-width: 860px){
     
+        .container{
+        max-width: 100%;
+    }
+    
     .showcase{
         height: 75vh;
     }
